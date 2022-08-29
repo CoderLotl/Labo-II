@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\Clase 1\\Clase 1\\Clase 1.csproj",
-      "projectName": "Clase 1",
-      "projectPath": "C:\\Users\\Aris\\source\\repos\\Clase 1\\Clase 1\\Clase 1.csproj",
+      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\Clase 1\\Clase 1\\Unidad 1.csproj",
+      "projectName": "Unidad 1",
+      "projectPath": "C:\\Users\\Aris\\source\\repos\\Clase 1\\Clase 1\\Unidad 1.csproj",
       "packagesPath": "C:\\Users\\Aris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aris\\source\\repos\\Clase 1\\Clase 1\\obj\\",
       "projectStyle": "PackageReference",

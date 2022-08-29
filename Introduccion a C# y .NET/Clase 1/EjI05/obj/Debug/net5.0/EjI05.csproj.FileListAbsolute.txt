@@ -1,0 +1,16 @@
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.exe
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.deps.json
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.runtimeconfig.json
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.dll
+C:\Users\Aris\source\repos\Clase 1\EjI05\bin\Debug\net5.0\EjI05.pdb
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.csproj.AssemblyReference.cache
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.AssemblyInfo.cs
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.dll
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\refint\EjI05.dll
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.pdb
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\EjI05.genruntimeconfig.cache
+C:\Users\Aris\source\repos\Clase 1\EjI05\obj\Debug\net5.0\ref\EjI05.dll
