@@ -57,7 +57,7 @@ namespace EjI01
                 avg += number;
             }
             avg = avg / 5;
-            Console.WriteLine("\n------------------------------\nNumero maximo: {0}\nNumero Minimo: {1}\nNumero promedio: {2}", min, max, avg);
+            Console.WriteLine("\n------------------------------\nNumero maximo: {0}\nNumero Minimo: {1}\nNumero promedio: {2}", max, min, avg);
             Console.WriteLine("Press any key...");
             Console.ReadKey();
         }    
